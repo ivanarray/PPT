@@ -6,7 +6,7 @@
 * Собрать проект
 * Запустить App.exe из консоли с именем хоста или ip 
  Пример:
-  \App\bin\Release\net6.0\App.exe github.com
+>  \App\bin\Release\net6.0\App.exe github.com
  
  Пример вывода
  
